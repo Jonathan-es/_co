@@ -3,6 +3,7 @@
 
 ### 第一週習題：第一章 1-6 題
 有用chatgpt協助debug
+
 [Not](https://github.com/Jonathan-es/_co/blob/master/01/Not.hdl)
 
 [And](https://github.com/Jonathan-es/_co/blob/master/01/And.hdl)
@@ -38,6 +39,7 @@
 
 ### 第三週習題：第2章 前半部 (除 ALU 以外)
 有用chatgpt協助debug
+
 [HalfAdder](https://github.com/Jonathan-es/_co/blob/master/02/HalfAdder.hdl)
 
 [FullAdder](https://github.com/Jonathan-es/_co/blob/master/02/FullAdder.hdl)
@@ -48,6 +50,7 @@
 
 ### 第四週習題：第2章 ALU 
 有用chatgpt協助debug
+
 [ALU](https://github.com/Jonathan-es/_co/blob/master/02/ALU.hdl)
 
 ### 第五週習題 -- 第三章前半部
